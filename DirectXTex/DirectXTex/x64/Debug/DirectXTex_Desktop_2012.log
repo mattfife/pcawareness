@@ -1,0 +1,52 @@
+﻿Build started 7/23/2013 3:25:51 PM.
+     1>Project "D:\depot\projects\samples\PercAwareness2\DirectXTex\DirectXTex\DirectXTex_Desktop_2012.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\DirectXTex.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\XNAMath /Zi /nologo /W4 /WX- /Od /Oi /D _UNICODE /D UNICODE /D WIN32 /D _DEBUG /D _LIB /D DXGI_1_2_FORMATS /D _WIN7_PLATFORM_UPDATE /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:fast /Zc:wchar_t /Zc:forScope /openmp /Yc"DirectXTexP.h" /Fp"x64\Debug\DirectXTex.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt  DirectXTexUtil.cpp
+         DirectXTexUtil.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\XNAMath /Zi /nologo /W4 /WX- /Od /Oi /D _UNICODE /D UNICODE /D WIN32 /D _DEBUG /D _LIB /D DXGI_1_2_FORMATS /D _WIN7_PLATFORM_UPDATE /D _WIN32_WINNT=0x0600 /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:fast /Zc:wchar_t /Zc:forScope /openmp /Yu"DirectXTexP.h" /Fp"x64\Debug\DirectXTex.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt  BC.cpp BC4BC5.cpp BC6HBC7.cpp DirectXTexCompress.cpp DirectXTexConvert.cpp DirectXTexD3D11.cpp DirectXTexDDS.cpp DirectXTexFlipRotate.cpp DirectXTexImage.cpp DirectXTexMipMaps.cpp DirectXTexMisc.cpp DirectXTexNormalMaps.cpp DirectXTexPMAlpha.cpp DirectXTexResize.cpp DirectXTexTGA.cpp DirectXTexWIC.cpp
+         BC.cpp
+         BC4BC5.cpp
+         BC6HBC7.cpp
+         DirectXTexCompress.cpp
+         DirectXTexConvert.cpp
+         DirectXTexD3D11.cpp
+         DirectXTexDDS.cpp
+         DirectXTexFlipRotate.cpp
+         DirectXTexImage.cpp
+         DirectXTexMipMaps.cpp
+         DirectXTexMisc.cpp
+         DirectXTexNormalMaps.cpp
+         DirectXTexPMAlpha.cpp
+         DirectXTexResize.cpp
+         DirectXTexTGA.cpp
+         DirectXTexWIC.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\Lib.exe /OUT:"D:\depot\projects\samples\PercAwareness2\DirectXTex\DirectXTex\x64\Debug\DirectXTex.lib" /NOLOGO /MACHINE:X64 x64\Debug\BC.obj
+         x64\Debug\BC4BC5.obj
+         x64\Debug\BC6HBC7.obj
+         x64\Debug\DirectXTexCompress.obj
+         x64\Debug\DirectXTexConvert.obj
+         x64\Debug\DirectXTexD3D11.obj
+         x64\Debug\DirectXTexDDS.obj
+         x64\Debug\DirectXTexFlipRotate.obj
+         x64\Debug\DirectXTexImage.obj
+         x64\Debug\DirectXTexMipMaps.obj
+         x64\Debug\DirectXTexMisc.obj
+         x64\Debug\DirectXTexNormalMaps.obj
+         x64\Debug\DirectXTexPMAlpha.obj
+         x64\Debug\DirectXTexResize.obj
+         x64\Debug\DirectXTexTGA.obj
+         x64\Debug\DirectXTexUtil.obj
+         x64\Debug\DirectXTexWIC.obj
+         DirectXTex_Desktop_2012.vcxproj -> D:\depot\projects\samples\PercAwareness2\DirectXTex\DirectXTex\x64\Debug\DirectXTex.lib
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\DirectXTex.unsuccessfulbuild".
+         Touching "x64\Debug\DirectXTex.lastbuildstate".
+     1>Done Building Project "D:\depot\projects\samples\PercAwareness2\DirectXTex\DirectXTex\DirectXTex_Desktop_2012.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.90

@@ -1,0 +1,7 @@
+VertexShaderFile    = %DefaultShader.fx
+VertexShaderMain    = VSMainNoTexture
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = %DefaultShader.fx
+PixelShaderMain     = PSMainNoTexture
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates

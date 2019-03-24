@@ -1,0 +1,8 @@
+texture0 = pause.dds
+VertexShaderFile    = vignette.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = vignette.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = vignette.rs

@@ -1,0 +1,11 @@
+diffuse = concrete_2k_05a_streak_vert00_diff.dds
+normal = concrete_2k_05a_streak_vert00_norm.dds
+specular = concrete_2k_05a_streak_vert00_spec.dds
+normalSrgb = false
+VertexShaderFile    = repeatFive.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = repeatFive.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates

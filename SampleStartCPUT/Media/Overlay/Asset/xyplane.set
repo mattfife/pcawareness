@@ -1,0 +1,26 @@
+// Created with FBXConvert.exe (Aug 29 2012 13:08:42)
+[node 0]
+type = model
+name = xyplane
+parent = -1
+matrixRow0 = 2 0 0 0
+matrixRow1 = 0 2 0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = -1 -1 0 1
+BoundingBoxCenter = 0.5 0.5 -0 
+BoundingBoxHalf = 0.5 0.5 0 
+meshcount = 1
+material0 = vignette
+
+[node 1]
+type = model
+name = xyplane2
+parent = -1
+matrixRow0 = 0.25 0 0 0
+matrixRow1 = 0 0.25 0 0
+matrixRow2 = 0 0 1 0
+matrixRow3 = -0.12 -0.12 0 1
+BoundingBoxCenter = 0.5 0.5 -0 
+BoundingBoxHalf = 0.5 0.5 0 
+meshcount = 1
+material0 = vignette2

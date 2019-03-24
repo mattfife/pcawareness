@@ -1,0 +1,1 @@
+This is the Perceptual Computing Awareness sample.

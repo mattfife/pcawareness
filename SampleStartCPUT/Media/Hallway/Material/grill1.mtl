@@ -1,0 +1,11 @@
+diffuse = metalPlatesIso_1k_diff.dds
+normal = metalPlatesIso_1k_norm.dds
+specular = metalPlatesIso_1k_spec.dds
+normalSrgb = false
+VertexShaderFile    = repeatFive.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = repeatFive.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates

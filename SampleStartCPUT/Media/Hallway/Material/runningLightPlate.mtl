@@ -1,0 +1,11 @@
+diffuse = sewerPlate_05b_512_diffAlt.dds
+normal = sewerPlate_05b_512_normAlt.dds
+specular = sewerPlate_05b_512_specAlt.dds
+normalSrgb = false
+VertexShaderFile    = repeatThirty.fx
+VertexShaderMain    = VSMain
+VertexShaderProfile = vs_4_0
+PixelShaderFile     = repeatThirty.fx
+PixelShaderMain     = PSMain
+PixelShaderProfile  = ps_4_0
+RenderStateFile     = $DefaultRenderStates

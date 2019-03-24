@@ -1,0 +1,7 @@
+NMlayer= texture( name="normal", uv=uv0 * (5,5)) *2 -1
+DMlayer= texture( name="diffuse", uv=uv0 * (5,5) )
+SMlayer= texture( name="specular", uv=uv0 * (5,5) )
+diffuse = DMlayer
+normal = NMlayer
+specular = SMlayer
+ambient = diffuse
