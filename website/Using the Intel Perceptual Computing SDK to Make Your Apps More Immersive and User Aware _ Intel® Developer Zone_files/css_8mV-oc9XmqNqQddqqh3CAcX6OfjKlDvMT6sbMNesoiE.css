@@ -1,0 +1,27 @@
+.ctools-locked{color:red;border:1px solid red;padding:1em;}.ctools-owns-lock{background:#FFFFDD none repeat scroll 0 0;border:1px solid #F0C020;padding:1em;}a.ctools-ajaxing,input.ctools-ajaxing,button.ctools-ajaxing,select.ctools-ajaxing{padding-right:18px !important;background:url(/web/20151007091749im_/https://software.intel.com/sites/all/modules/contrib/ctools/images/status-active.gif) right center no-repeat;}div.ctools-ajaxing{float:left;width:18px;background:url(/web/20151007091749im_/https://software.intel.com/sites/all/modules/contrib/ctools/images/status-active.gif) center center no-repeat;}
+div.panel-pane div.admin-links{font-size:xx-small;margin-right:1em;}div.panel-pane div.admin-links li a{color:#ccc;}div.panel-pane div.admin-links li{padding-bottom:2px;background:white;z-index:201;}div.panel-pane div.admin-links:hover a,div.panel-pane div.admin-links-hover a{color:#000;}div.panel-pane div.admin-links a:before{content:"[";}div.panel-pane div.admin-links a:after{content:"]";}div.panel-pane div.panel-hide{display:none;}div.panel-pane div.panel-hide-hover,div.panel-pane:hover div.panel-hide{display:block;position:absolute;z-index:200;margin-top:-1.5em;}div.panel-pane div.node{margin:0;padding:0;}div.panel-pane div.feed a{float:right;}
+.quote-author{display:inline;margin:0 0 1em 0;font-weight:bold;}.quote-msg,.quote-snip{padding:1em;border:1px solid #DDD;background-color:#F6F6F6;}.quote-snip{text-align:center;}
+.contextual-links-region{outline:none;position:relative;}.contextual-links-region-active{outline:#999 dashed 1px;}div.contextual-links-wrapper{display:none;font-size:90%;position:absolute;right:5px;top:2px;z-index:999;}html.js div.contextual-links-wrapper{display:block;}a.contextual-links-trigger{background:transparent url(/web/20151007091749im_/https://software.intel.com/modules/contextual/images/gear-select.png) no-repeat 2px 0;border:1px solid transparent;display:none;height:18px;margin:0;padding:0 2px;outline:none;text-indent:34px;width:28px;overflow:hidden;-khtml-border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;}a.contextual-links-trigger:hover,div.contextual-links-active a.contextual-links-trigger{background-position:2px -18px;}div.contextual-links-active a.contextual-links-trigger{background-color:#fff;border-color:#ccc;border-bottom:none;position:relative;z-index:1;-moz-border-radius:4px 4px 0 0;-webkit-border-bottom-left-radius:0;-webkit-border-bottom-right-radius:0;border-radius:4px 4px 0 0;}div.contextual-links-wrapper ul.contextual-links{background-color:#fff;border:1px solid #ccc;display:none;margin:0;padding:0.25em 0;position:absolute;right:0;text-align:left;top:18px;white-space:nowrap;-moz-border-radius:4px 0 4px 4px;-webkit-border-bottom-left-radius:4px;-webkit-border-bottom-right-radius:4px;-webkit-border-top-right-radius:0;-webkit-border-top-left-radius:4px;border-radius:4px 0 4px 4px;}a.contextual-links-trigger-active,div.contextual-links-active a.contextual-links-trigger,div.contextual-links-active ul.contextual-links{display:block;}ul.contextual-links li{line-height:100%;list-style:none;list-style-image:none;margin:0;padding:0;}div.contextual-links-wrapper a{text-decoration:none;}ul.contextual-links li a{color:#333 !important;display:block;margin:0.25em 0;padding:0.25em 1em 0.25em 0.5em;}ul.contextual-links li a:hover{background-color:#bfdcee;}
+.locale-untranslated{font-style:normal;text-decoration:line-through;}#locale-translation-filter-form .form-item-language,#locale-translation-filter-form .form-item-translation,#locale-translation-filter-form .form-item-group{float:left;padding-right:.8em;margin:0.1em;width:15em;}#locale-translation-filter-form .form-type-select select{width:100%;}#locale-translation-filter-form .form-actions{float:left;padding:3ex 0 0 1em;}.language-switcher-locale-session a.active{color:#0062A0;}.language-switcher-locale-session a.session-active{color:#000000;}
+
+/*
+     FILE ARCHIVED ON 09:17:49 Oct 07, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:22:30 Mar 24, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 91.794 (3)
+  esindex: 0.006
+  captures_list: 110.432
+  CDXLines.iter: 13.974 (3)
+  PetaboxLoader3.datanode: 50.071 (4)
+  exclusion.robots: 0.146
+  exclusion.robots.policy: 0.137
+  RedisCDXSource: 1.828
+  PetaboxLoader3.resolve: 95.805 (2)
+  load_resource: 88.505
+*/

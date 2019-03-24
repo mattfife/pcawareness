@@ -1,0 +1,26 @@
+(function ($) {
+    dataLayer.push({'canonicalURL': $("link[rel='canonical']").attr("href")});
+})(jQuery)
+;
+
+/*
+     FILE ARCHIVED ON 09:17:16 Oct 07, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:22:30 Mar 24, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 81.513 (3)
+  esindex: 0.006
+  captures_list: 105.591
+  CDXLines.iter: 11.756 (3)
+  PetaboxLoader3.datanode: 82.427 (4)
+  exclusion.robots: 0.118
+  exclusion.robots.policy: 0.107
+  RedisCDXSource: 2.307
+  PetaboxLoader3.resolve: 34.16
+  load_resource: 41.864
+*/
