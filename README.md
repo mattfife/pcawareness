@@ -1,4 +1,6 @@
-Intel no longer hosts this sample since it discontinued updating the Intel Preceptual Computing SDK. The website folder inside this project is a copy of the last hosted entry from the Internet Archive. 
+Adding Perceptual Awareness to your game. 
+
+Intel no longer hosts this sample I wrote since it discontinued the Intel Preceptual Computing SDK. The website folder inside this project is a copy of the last hosted website entry from the Internet Archive. 
 https://web.archive.org/web/20151008053749/https://software.intel.com/en-us/blogs/2013/08/26/using-the-intel-perceptual-computing-sdk-to-make-your-apps-more-immersive-and-user
 
 Original text:
